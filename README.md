@@ -1,6 +1,6 @@
-# install-GSI-Trebledroid-to-Xiaomi-Redmi-K50-rubens-
-Download a GSI rom
-Unlock bootloader of the phone
+# install-GSI-Trebledroid-to-Xiaomi-Redmi-K50-rubens
+#Download a GSI rom
+#Unlock bootloader of the phone
 Install the MIUI china version: V13.0.13.0.SLNCNXM (Other versions will meet no in-call audio issue)
 Download a GSI rom
 Plug the phone to computer

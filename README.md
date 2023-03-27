@@ -1,0 +1,1 @@
+# install-GSI-Trebledroid-to-Xiaomi-Redmi-K50-rubens-

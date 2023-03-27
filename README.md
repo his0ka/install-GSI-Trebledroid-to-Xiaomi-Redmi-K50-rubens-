@@ -1,4 +1,4 @@
-# install-GSI-Trebledroid-to-Xiaomi-Redmi-K50-rubens
+# How to install GSI Trebledroid to Xiaomi Redmi K50 (rubens) and fix brightness, bluetooth bugs
 - Download a GSI rom
 - Unlock bootloader of the phone
 - Install the MIUI china version: V13.0.13.0.SLNCNXM (Other versions will meet no in-call audio issue)
